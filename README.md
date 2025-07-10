@@ -15,12 +15,16 @@ This project focuses on applying data analytics techniques to the sales domain. 
 - Visualizations and dashboards
 
 ## Power BI Dashboard Visualization
+
 1 -  Performance Summary
 ![image](https://github.com/user-attachments/assets/c653fc9b-b665-4475-b9a1-dc1953aba4ac)
+
 2 -  Customer Segmentation
-![image](https://github.com/user-attachments/assets/53975dd5-5d4e-416b-90d5-43d851de99d3)
+![image](https://github.com/user-attachments/assets/c1a604db-be5c-49e8-a650-175d7227deda)
+
 3 -  Revenue Scenarios
-![image](https://github.com/user-attachments/assets/c4118e8f-e6c3-4352-a28b-ab9834fe45cc)
+![image](https://github.com/user-attachments/assets/9a5a3811-25b1-4f31-88cf-03cb7a93ef97)
+
 
 ## USA Regional Sales Performance Analysis
 This project analyzes Acme Co.’s USA sales data (2014–2018) to uncover:
@@ -28,6 +32,7 @@ This project analyzes Acme Co.’s USA sales data (2014–2018) to uncover:
 - Seasonal patterns and high-performing time periods
 - Customer and pricing outliers affecting performance
 - Actionable insights for market expansion and strategic planning
+  
 Power BI is used to visualize insights from data processed and cleaned using Python and SQL.
 
 ## Project Learnings
